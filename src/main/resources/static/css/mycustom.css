@@ -1,0 +1,13 @@
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: black !important;
+    color: white !important;
+}
+
+.btn-primary {
+    color: white !important;
+    background-color: green !important;
+    width: 100%;
+}
